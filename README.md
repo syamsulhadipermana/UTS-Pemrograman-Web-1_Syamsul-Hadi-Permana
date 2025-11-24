@@ -11,8 +11,12 @@
 </ul>
 
 # Project 1
-Berikut hasil screenshot project 1:
-<ul>
-  <li>Tampilan Halaman Utama Website</li>
+## Halaman Utama Website :
+<p>Tampilan Halaman Utama Website :</p>
   <img width="1920" height="950" alt="Image" src="https://github.com/user-attachments/assets/c46e7abd-b176-4bae-8940-6a67bb2f543f" />
-</ul>
+
+  <img width="1920" height="943" alt="Image" src="https://github.com/user-attachments/assets/d68fd3bd-0c71-4b72-89d8-845769291fe8" />
+  
+## Lihat Detail
+<p>Tampilan Lihat Detail Gitar :</p>
+   <img width="1920" height="943" alt="Image" src="https://github.com/user-attachments/assets/d68fd3bd-0c71-4b72-89d8-845769291fe8" />
