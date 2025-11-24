@@ -1,0 +1,56 @@
+/* basic reset */
+* { box-sizing: border-box; margin:0; padding:0; font-family: Inter, "Segoe UI", Arial, sans-serif; }
+body { background: #f6f0ea; color: #222; }
+
+/* header */
+.site-header { background: linear-gradient(90deg,#f3e8df,#efe4d8); border-bottom: 1px solid #e0d5c9; }
+.site-header .container { padding:18px 24px; }
+.brand { font-weight:700; font-size:22px; color:#1b1b1b; text-decoration:none; letter-spacing:0.4px; }
+.nav-links a { margin-left:18px; color:#5b4636; text-decoration:none; font-weight:600; }
+.nav-links a:hover { color:#2c1b12; }
+
+/* hero */
+.hero { padding:36px 0 12px; }
+.hero-title { font-size:40px; margin-bottom:12px; color:#1b1b1b; }
+.hero-desc { font-size:16px; color:#4b3b32; max-width:850px; }
+
+/* product grid (like Gibson) */
+#product-grid .card {
+  background:#fff; border:0; border-radius:12px; overflow:hidden;
+  box-shadow: 0 8px 30px rgba(45,35,30,0.08);
+}
+.card-img-top {
+  height:320px; object-fit:cover; display:block; width:100%;
+}
+.card-body { padding:18px; }
+.card-title { font-size:18px; font-weight:700; color:#1b1b1b; }
+.card-text { color:#826556; margin-top:6px; }
+
+/* grid columns styling */
+@media(min-width:1200px){
+  #product-grid .col-lg { flex: 0 0 23%; max-width:23%; } /* 4 per row like example */
+}
+
+/* card hover */
+.card:hover { transform: translateY(-6px); transition: all .18s ease; }
+
+/* detail page */
+#detail-wrap .detail-card { display:flex; gap:28px; align-items:flex-start; }
+.detail-image { flex:0 0 48%; border-radius:10px; overflow:hidden; }
+.detail-image img { width:100%; height:520px; object-fit:cover; display:block; }
+.detail-info { flex:1; background:#fff; padding:22px; border-radius:10px; box-shadow: 0 8px 20px rgba(45,35,30,0.06); }
+.detail-info h3 { margin-bottom:10px; font-size:28px; }
+.detail-info p.price { color:#8b5a2b; font-weight:700; font-size:20px; margin-bottom:12px; }
+
+/* form card */
+.form-card { background: #fff; border-radius:10px; box-shadow: 0 8px 20px rgba(45,35,30,0.06); }
+
+/* footer */
+.site-footer { margin-top:48px; padding:18px 0; background:#efe4d8; border-top:1px solid #e0d5c9; color:#5b4636; font-weight:600; }
+
+/* small responsive tweaks */
+@media(max-width:991px){
+  .detail-card { flex-direction:column; }
+  .detail-image img { height:360px; }
+  .hero-title { font-size:30px; }
+}
