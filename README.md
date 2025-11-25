@@ -48,9 +48,23 @@
 <p>Tampilan Halaman Localhost MySQL :</p>
    <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9ea497f-206c-4beb-b8fe-652ff2b3bcb4" />
 
-## Get_Data
-<p>Tampilan Get_Data Di Bruno :</p>
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3b78cc87-000d-4454-9e5f-eb0d4dd56a76" />
+## Test_connection
+<p>Tampilan koneksi di Bruno :</p>
 
-## 
+## Get_data
+<p>Tampilan get_data di Bruno :</p>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d8075ac6-f3cc-4f0b-ab66-f180d7ec1df5" />
+
+## Update_data
+<p>Tampilan update_data di Bruno :</p>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/38d1c813-bde1-4e4f-8f1e-f075b683a9ee" />
+
+## Insert_data
+<p>Tampilan insert_data di Bruno :</p>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5e69ce5d-f795-4ae4-872c-47ff6aa6804e" />
+
+## Delete_data
+<p>Tampilan delete_data di Bruno</p>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9ecbf688-a73e-48b0-b0d8-491d72ff5ded" />
+
    
