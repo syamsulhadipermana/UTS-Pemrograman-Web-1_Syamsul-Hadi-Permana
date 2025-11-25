@@ -1,0 +1,25 @@
+meta {
+  name: insert_data
+  type: http
+  seq: 4
+}
+
+post {
+  url: localhost/utscrud/flow/insup_data.php
+  body: multipartForm
+  auth: inherit
+}
+
+body:multipart-form {
+  ndepan: Samuel
+  nbelakang: Strat
+  mail: strat11@gmail.com
+  usr: Sam
+  pwd: 123
+  filePhoto: @file(C:\Users\DELL\Downloads\SG_Exclusive.webp)
+}
+
+settings {
+  encodeUrl: true
+  timeout: 0
+}
