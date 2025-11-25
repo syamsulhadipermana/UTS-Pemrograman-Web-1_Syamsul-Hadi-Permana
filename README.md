@@ -42,4 +42,15 @@
 <p>Tampilan Halaman Detail Gitar :</p>
    <img width="1920" height="942" alt="Image" src="https://github.com/user-attachments/assets/d59c9e0f-f189-4f69-ab39-e1fe518a95df" />
    <img width="1920" height="919" alt="Image" src="https://github.com/user-attachments/assets/c3fbe7ba-100a-4058-aa7e-d7e32b6e9926" />
+
+# Project 2
+## localhost MySQL
+<p>Tampilan Halaman Localhost MySQL :</p>
+   <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d9ea497f-206c-4beb-b8fe-652ff2b3bcb4" />
+
+## Get_Data
+<p>Tampilan Get_Data Di Bruno :</p>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3b78cc87-000d-4454-9e5f-eb0d4dd56a76" />
+
+## 
    
